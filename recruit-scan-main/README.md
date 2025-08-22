@@ -1,20 +1,23 @@
-# Welcome to your Lovable project
+AI-Based Resume Screening System
+📌 Introduction
 
-## Project info
+Recruitment is one of the most resource-intensive processes in any organization.
+HR teams often receive hundreds of resumes for a single role, making manual screening time-consuming, inconsistent, and prone to bias.
 
-**URL**: https://lovable.dev/projects/7ce5ed68-7e18-439e-a353-4faec7897eb7
+The AI-Based Resume Screening System is designed to automate resume shortlisting using Natural Language Processing (NLP) and Machine Learning (ML).
+It extracts key information from resumes, matches them against job descriptions, and provides a ranked list of candidates, saving recruiters valuable time.
 
-## How can I edit this code?
+🎯 Project Goals
 
-There are several ways of editing your application.
+Automate resume screening and reduce recruiter workload.
 
-**Use Lovable**
+Improve accuracy by matching resumes with job requirements.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7ce5ed68-7e18-439e-a353-4faec7897eb7) and start prompting.
+Ensure fairness by focusing only on skills, experience, and qualifications.
 
-Changes made via Lovable will be committed automatically to this repo.
+Save time & cost in the recruitment process.
 
-**Use your preferred IDE**
+Provide insights through a recruiter-friendly dashboard.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -42,13 +45,6 @@ npm run dev
 - Click the "Edit" button (pencil icon) at the top right of the file view.
 - Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
@@ -60,14 +56,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7ce5ed68-7e18-439e-a353-4faec7897eb7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
